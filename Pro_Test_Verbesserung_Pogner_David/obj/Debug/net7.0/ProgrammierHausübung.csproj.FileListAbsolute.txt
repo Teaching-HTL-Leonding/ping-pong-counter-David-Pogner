@@ -1,0 +1,15 @@
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\bin\Debug\net7.0\ProgrammierHausübung.exe
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\bin\Debug\net7.0\ProgrammierHausübung.deps.json
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\bin\Debug\net7.0\ProgrammierHausübung.runtimeconfig.json
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\bin\Debug\net7.0\ProgrammierHausübung.dll
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\bin\Debug\net7.0\ProgrammierHausübung.pdb
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.csproj.AssemblyReference.cache
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.AssemblyInfoInputs.cache
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.AssemblyInfo.cs
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.csproj.CoreCompileInputs.cache
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.dll
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\refint\ProgrammierHausübung.dll
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.pdb
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ProgrammierHausübung.genruntimeconfig.cache
+C:\HTL Leonding\Programmieren\ProgrammierHausübung\obj\Debug\net7.0\ref\ProgrammierHausübung.dll
